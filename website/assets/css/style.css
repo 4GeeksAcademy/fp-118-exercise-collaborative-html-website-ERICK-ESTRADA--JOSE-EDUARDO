@@ -1,0 +1,10 @@
+body{
+    background: #BDBDBD;
+}
+.tg-bg{
+    background-image: url(../../assets/img/bg.jpg);
+    background-position: bottom;
+    width: auto;
+    height: 40vh;
+    font-size: 5rem;
+}
