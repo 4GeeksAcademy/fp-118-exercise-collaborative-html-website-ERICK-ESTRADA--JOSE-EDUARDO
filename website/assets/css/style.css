@@ -1,7 +1,11 @@
-
+body{
+    background: white;
+}
 .tg-bg{
     background-image: url(../../assets/img/bg.jpg);
     background-position: bottom;
+    background-repeat: no-repeat;
+    background-size: cover;
     width: auto;
     height: 40vh;
     font-size: 5rem;
