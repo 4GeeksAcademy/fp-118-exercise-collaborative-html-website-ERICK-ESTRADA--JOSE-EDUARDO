@@ -1,3 +1,12 @@
 body{
-    background: #BDBDBD;
+    background: white;
+}
+.tg-bg{
+    background-image: url(../../assets/img/bg.jpg);
+    background-position: bottom;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: auto;
+    min-height: 35vh;
+    font-size: 4rem;
 }
