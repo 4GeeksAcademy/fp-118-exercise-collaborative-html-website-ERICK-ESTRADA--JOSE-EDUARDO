@@ -7,6 +7,6 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
     width: auto;
-    height: 35vh;
+    min-height: 35vh;
     font-size: 4rem;
 }
